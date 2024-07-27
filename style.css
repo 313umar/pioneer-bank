@@ -1,0 +1,52 @@
+body {
+    padding: 100px;
+    justify-items: center;
+    align-items: center;
+    justify-content: center;
+}
+
+/* .bank-title {
+    text-align: center;
+} */
+
+.submit-area {
+    margin-top: 50px;
+    padding: 20px 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px gray;
+    width: 80%;
+    margin-left: 80px;
+
+}
+
+
+#transcation {
+    display: none;
+    text-align: center;
+
+
+}
+
+.dipo,
+.wdw,
+.balance {
+
+    height: 150px;
+    width: 250px;
+    background-color: aqua;
+    border-radius: 15px;
+    padding-top: 20px;
+    color: white;
+}
+
+.dipo {
+    background-color: slateblue;
+}
+
+.wdw {
+    background-color: lightsalmon;
+}
+
+.balance {
+    background-color: orange;
+}
